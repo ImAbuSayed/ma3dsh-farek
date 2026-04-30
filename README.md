@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> في صمت الليل أسمع نداكِ
+> وقلبي يذوب في بحر هواكِ
+> يا نور عيني لا أريد سواكِ
+> أعيش عمري كله فداكِ
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
