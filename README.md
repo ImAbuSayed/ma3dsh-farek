@@ -10,7 +10,7 @@
 |-------|---------|
 | Title | Ma3dsh Farek |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | May 01, 2026 |
+| Lyric Writing Date | April 30, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/ma3dsh-farek/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
