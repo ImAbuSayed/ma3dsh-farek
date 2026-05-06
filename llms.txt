@@ -13,7 +13,7 @@
 | Lyric Writing Date | April 30, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/ma3dsh-farek/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Apply for Music License: Ma3dsh Farek](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [License Abu Sayed's Ma3dsh Farek](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
